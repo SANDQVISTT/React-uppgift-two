@@ -1,0 +1,25 @@
+.userInputContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: solid green 10px;
+}
+.userInputDIV {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin: 20px;
+}
+.displayInfoContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 3rem;
+}
+.ItemCard {
+  display: flex;
+
+  flex-direction: column;
+  border: solid black 2px;
+}

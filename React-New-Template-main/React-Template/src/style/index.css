@@ -1,0 +1,5 @@
+@import "./app.css";
+@import "../components/footer/_footer.css";
+@import "../components/header/_header.css";
+@import "../components/userInput/_input.css";
+@import "../components/rendera/_rendera.css";
